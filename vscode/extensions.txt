@@ -1,0 +1,19 @@
+1. Auto rename tag
+2. background
+3. Better TOML
+4. C/C++
+5. C#
+6. Discord Presence
+7. EJS language support
+8. ESLint
+9. Github Theme
+10. HTML CSS Support
+11. indent-rainbow
+12. IntelliSense for CSS class names in HTML
+13. Live Server
+14. Live Share
+15. Material Icon Theme
+16. Prettier
+17. rust-analyzer
+18. Tailwind
+19. Thunder Client
