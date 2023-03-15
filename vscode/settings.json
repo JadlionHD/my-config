@@ -1,0 +1,25 @@
+{
+  "window.zoomLevel": 1,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.withNodeModules": true,
+  "prettier.trailingComma": "none",
+  "git.autofetch": true,
+  "omnisharp.useModernNet": true,
+  "eslint.alwaysShowStatus": true,
+  "prettier.printWidth": 100,
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "glassit.alpha": 230,
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer"
+  },
+  "background.styles": [{}, {}, {}],
+  "rust-analyzer.cargo.autoreload": false,
+  "editor.accessibilitySupport": "off",
+  "workbench.colorTheme": "GitHub Dark",
+  "discord.removeRemoteRepository": true
+}
