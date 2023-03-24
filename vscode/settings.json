@@ -17,6 +17,9 @@
   "[rust]": {
     "editor.defaultFormatter": "rust-lang.rust-analyzer"
   },
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
   "background.styles": [{}, {}, {}],
   "rust-analyzer.cargo.autoreload": false,
   "editor.accessibilitySupport": "off",
